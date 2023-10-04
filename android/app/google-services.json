@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308505602070",
+    "project_id": "safedrive-12f49",
+    "storage_bucket": "safedrive-12f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308505602070:android:705b6bc270806be2d92d37",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308505602070-862sulj6e1eimmjhttg2hugouomud0lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRy3gU7QcwvJsoxZTkBjqAxuaxlyqK8ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308505602070-862sulj6e1eimmjhttg2hugouomud0lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
